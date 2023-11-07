@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 As a front-end developer student at EC Education looking forward to finding a company where I can challenge myself further.<br><br>👨🏻‍💻 I am at the end of my education and currently doing my internship at Zmarta <br><br>🌱 I have experience in both front-end och back-end operations<br><br>👨‍👩‍👦‍👦 Have 3 wonderful kids
+🚀 As a front-end developer looking forward to finding a company where I can challenge myself further.<br><br>👨🏻‍💻 Currently I am working a backend project with typescript at Zmarta <br><br>🌱 I have experience in both front-end och back-end operations<br><br>👨‍👩‍👦‍👦 Have 3 wonderful kids
 
 
 ## 🌐 Socials:
